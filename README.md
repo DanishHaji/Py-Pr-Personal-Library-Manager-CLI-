@@ -21,6 +21,12 @@ A simple CLI-based library management system that allows users to manage their b
    python library_manager.py
    ```
 
+▶️ Live Practical (Google Colab)
+
+Want to try it online? Click below to run the project in Google Colab:
+https://colab.research.google.com/drive/1GlnUQWyAHQ4TxLhIKEKbzZiZ8e3rySMT#scrollTo=Dl8d_wNsxXZ3&line=4&uniqifier=1
+
+
 ## 📌 Usage
 After running the script, you will see a menu with options:
 1. Add a book
